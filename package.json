@@ -1,0 +1,22 @@
+{
+  "name": "hosting-template",
+  "version": "1.0.0",
+  "description": "Cloud Hosting template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unpin/hosting-template.git"
+  },
+  "author": "German",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unpin/hosting-template/issues"
+  },
+  "homepage": "https://github.com/unpin/hosting-template#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
